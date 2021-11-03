@@ -3,4 +3,5 @@
 I am currently studying Software Engineering with a focus on Web Development at Blekinge Tekniska Högskola in Sweden. 
 
 Tech stack: HTML, CSS, SASS, PHP, JavaScript, Python, SQL
+
 Frameworks: SASS, Pico (lightweight PHP framework)
