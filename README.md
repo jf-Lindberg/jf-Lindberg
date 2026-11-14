@@ -1,1 +1,1 @@
-https://filiplindberg.se
+filiplindberg.se
